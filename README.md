@@ -9,5 +9,6 @@ The maps have been created using plotly and the Mapbox API. They are dynamic and
 
 The above image shows all the possible routes in between the depot and the customer locations.
 
-![image](https://github.com/Kunaluu/CVRP_solution/assets/84574932/71f2c5d7-bd6a-471c-a49f-5b811cd7a8cd)
+![image](https://github.com/Kunaluu/CVRP_solution/assets/84574932/83d10c52-7384-4cc4-abeb-0bcddf295d20)
+
 The routes for multiple vehicles are shown from certain given points
